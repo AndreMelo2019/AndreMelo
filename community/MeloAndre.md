@@ -6,7 +6,7 @@
 
 Olá! Me chamo Andre Melo  estou iniciando área de Tecnologia tenho formação mas sem experiência
 
-Percebo a importância das tecnologias em diversar áreas e assim estou buscando o conhecimento com a pratica para agregar nas oportunidades que que aparecerem
+Percebo a importância das tecnologias em diversar áreas e assim estou buscando o conhecimento com a pratica para agregar nas oportunidades que aparecerem.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge).
